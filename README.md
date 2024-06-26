@@ -38,22 +38,21 @@ The program will output either true or false, indicating whether the maze is sol
 java Maze maze_images/choose_your_maze
 ```
 
-## Complex Maze Challenge
-Let's explore a complex maze challenge! Below is an image of a maze:
+## Exploring a Complex Maze Challenge
+
+Take a look at the maze image below:
 
 ![image8](https://github.com/OmerDahan1/Maze_Image_Decomposer/blob/main/maze_images/maze8.PNG)
 
-### Do You Think It Has a Solution?
-Before running the program, take a look at the maze image above and consider whether you think it has a solution. Can you find a path from the start to the end of the maze?
+### Do you think there's a solution to this maze? 
 
-### Program Result
-After running the Maze Solver program on the complex maze, here's the output:
+Try to find a path from the start to the end before checking the program's result.
+
+### Program Output
+After running the Maze Solver program on this maze, here is the resulting image::
 
 ![image8_solution](https://github.com/OmerDahan1/Maze_Image_Decomposer/blob/main/image8_solution.png)
 
-In this image, you can see the connected components of the maze. Each component is color-coded for clarity. As you can observe, the complex maze is not solvable, and the Union-Find algorithm has correctly identified the absence of a path from the start to the end.
+In this solution image, different connected components of the maze are highlighted with distinct colors. As you can see, there is no continuous path from the start to the finish. The Union-Find algorithm accurately identified that the maze is unsolvable.
 
-Feel free to explore other provided maze images to see how the program handles different mazes and their connected components.
-
-
-
+Explore other maze images to observe how the program identifies connected components and determines solvability for various mazes.
