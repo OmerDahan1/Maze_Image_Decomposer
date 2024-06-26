@@ -49,7 +49,7 @@ Before running the program, take a look at the maze image above and consider whe
 ### Program Result
 After running the Maze Solver program on the complex maze, here's the output:
 
-hard_output
+![image8_solution](https://github.com/OmerDahan1/Maze_Image_Decomposer/blob/main/image8_solution.png)
 
 In this image, you can see the connected components of the maze. Each component is color-coded for clarity. As you can observe, the complex maze is not solvable, and the Union-Find algorithm has correctly identified the absence of a path from the start to the end.
 
