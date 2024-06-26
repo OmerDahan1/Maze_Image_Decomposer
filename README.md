@@ -41,7 +41,7 @@ java Maze maze_images/choose_your_maze
 ## Complex Maze Challenge
 Let's explore a complex maze challenge! Below is an image of a maze:
 
-hard_unsolvable
+![image8](https://github.com/OmerDahan1/Maze_Image_Decomposer/blob/main/maze_images/maze8.PNG)
 
 ### Do You Think It Has a Solution?
 Before running the program, take a look at the maze image above and consider whether you think it has a solution. Can you find a path from the start to the end of the maze?
