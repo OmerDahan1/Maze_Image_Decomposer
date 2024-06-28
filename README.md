@@ -10,7 +10,7 @@
 - [Complex Maze Challenge](complex-Maze-Challenge)
 
 ## Overview
-Maze Image Decomposer is a Java application designed to analyze and process images, decomposing them into connected components. It uses the Union-Find data structure to identify and connect components, allowing it to determine the connectivity between specified start and end points in a maze-like image.
+Maze Solver is a Java application designed to analyze and process images, decomposing them into connected components. It uses the Union-Find data structure to identify and connect components, allowing it to determine the connectivity between specified start and end points in a maze-like image.
 
 ## Features
 - Decompose an image into its connected components.
@@ -24,7 +24,7 @@ Maze Image Decomposer is a Java application designed to analyze and process imag
 3. **DisplayImage**: Handles the display and manipulation of images.
 
 ## Installation
-To run the Maze Image Decomposer, you need to have Java installed on your system. Ensure you have a Java Development Kit (JDK) and an Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse.
+To run the Maze Solver, you need to have Java installed on your system. Ensure you have a Java Development Kit (JDK) and an Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse.
 
 ## Usage
 1. Clone the repository to your local machine.
