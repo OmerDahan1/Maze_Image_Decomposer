@@ -1,4 +1,4 @@
-# Maze_Image_Decomposer
+# Maze_Solver
 
 ## Table of Contents
 - [Overview](overview)
